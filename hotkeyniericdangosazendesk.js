@@ -1,3 +1,12 @@
+/*
+ETO INSTRUCTION GUYS
+1. GO TO https://ticketmaster.zendesk.com/agent
+2. Press F12
+3. Find Console and click nyo eto, meron dapat insertion point na lalabas dyan where you can type stuffs.
+4. Copy all of this script, lahat mismo kahit etong tinype ko iignore lang din naman nyan then paste.
+5. You can now press ALT + z for All Messenger Tix, ALT + x for DOS Messenger Tix, ALT + c for 72 Hour Messenger Tix.
+NOTE: Wala po tong pang kuha ng email tickets XORIII :*
+*/
 function setAccessKey() {
   var anchorElement1 = document.querySelectorAll(
     '[data-view-id="5238200867345"]'
